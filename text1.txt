@@ -1,10 +1,2 @@
- Volume in drive C is Windows
- Volume Serial Number is 642F-B5AF
 
- Directory of C:\Users\mdasi\Desktop\git
-
-03-02-2023  00:39    <DIR>          .
-02-02-2023  23:38    <DIR>          ..
-03-02-2023  00:39                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  449,238,286,336 bytes free
+change 1
